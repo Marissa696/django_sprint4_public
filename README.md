@@ -1,1 +1,1 @@
-# django_sprint4_public
+# django_sprint4
